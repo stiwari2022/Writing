@@ -27,9 +27,9 @@
         <div id="tswsideproper">
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="aboutme.html">About Me</a></li>
-              <li><a href="myacademics.html">My Academics</a></li>
+              <li><a href="index.html">About Me</a></li>
+              <li><a href="aboutme.html">My Coding</a></li>
+              <li><a href="myacademics.html">The Town's History</a></li>
             </ul>
           </div>
         </div>
