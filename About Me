@@ -16,9 +16,8 @@
           <!-- Content -->
 		  
 		  
-          <h1 style="text-align: center">My Town</h1>
-		  <p> <p>
-		  
+          <h1 style="text-align: center">My Coding Experiences</h1>
+		  <p>My programing experience has mainly been in Python. I mainly create data science oriantated projects that can be easily used in otherr projects. My favorites projects have bbeen inspired by Kaggle, and their tremendos amount of datasets. I've worked on regression, clusterring, and dimension reduction. My past experiences with HTML, CSS, and Javasript has been mostly on three projects, all in codepen, one informing about climate change, the seccond about the collatz conjecture, an the third about downloading a file a person can create from the browser. The climate change one is about the utilization of functions in javascript along with tabs. The collatz conjecture project uses input frorm the user and creates a pattern based pn the conjecture. The third project allows the user to write in the document and download what they wrote, so they can code and download in the browser. I havent dealt with the backend in any of my projects so I hope to learn that soon.</p>
 		  
 		  <!-- End of content -->
 		  </div>
@@ -27,9 +26,9 @@
         <div id="tswsideproper">
           <div id="tswcssbuttons">
             <ul>
-              <li><a href="index.html">Home</a></li>
-              <li><a href="aboutme.html">About Me</a></li>
-              <li><a href="myacademics.html">My Academics</a></li>
+              <li><a href="index.html">About Me</a></li>
+              <li><a href="aboutme.html">My Coding</a></li>
+              <li><a href="myacademics.html">The Town's History</a></li>
             </ul>
           </div>
         </div>
