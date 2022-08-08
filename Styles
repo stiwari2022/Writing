@@ -1,0 +1,95 @@
+body {
+	font-family: 'Times New Roman', serif;
+}
+img {
+	max-width: 100% ;
+	width: auto ;
+	height: auto ;
+}
+input, select, button, textarea {
+	max-width: 100% ;
+}
+meter, progress, output {
+	max-width: 100% ;
+}
+div#tswsidecol {
+	float: right ;
+	width: 20% ;
+	color: #000 ;
+	background-color: #fff ;
+}
+div#tswcontent {
+	float: right ;
+	width: 80% ;
+	color: #000 ;
+	background-color: #fff ;
+}
+@media only screen and (max-width: 629px) {
+	div#tswsidecol {
+		float: none ;
+		width: 100% ;
+	}
+	div#tswcontent {
+		float: none ;
+		width: 100% ;
+	}
+}
+div#tswcontproper {
+	padding-left: 5px ;
+	padding-right: 5px ;
+}
+div#tswcontainer {
+	color: inherit ;
+	background-color: #fff ;
+}
+div#tswsideproper, div#tswothersideproper {
+	padding-left: 5px ;
+	padding-right: 5px ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#tswcssbuttons {
+	width: 180px ;
+	max-width: 100% ;
+	text-align: center ;
+}
+#tswcssbuttons ul {
+	margin: 0 ;
+	padding: 0 ;
+	list-style: none ;
+}
+#tswcssbuttons li {
+	margin: 0 ;
+	padding: 0 ;
+	display: block ;
+	list-style: none ;
+	font-family: Arial, Helvetica, sans-serif ;
+}
+#tswcssbuttons li a {
+	color: #000000 ;
+	background-color: #99ccff ;
+	border: 1px outset #0000ff ;
+	text-decoration: none ;
+	display: block ;
+}
+#tswcssbuttons li a:hover {
+	color: #ffff00 ;
+	background-color: #0000c0 ;
+}
